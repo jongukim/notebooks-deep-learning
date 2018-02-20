@@ -1,0 +1,6 @@
+
+*.gz
+.ipynb_checkpoints/
+mnist_convnet_model/
+mnist_dnn_model/
+MNIST-data/
