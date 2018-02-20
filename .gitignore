@@ -1,6 +1,7 @@
 
 *.gz
 .ipynb_checkpoints/
+MNIST-data/
 mnist_convnet_model/
 mnist_dnn_model/
-MNIST-data/
+pattern_memorization_model
